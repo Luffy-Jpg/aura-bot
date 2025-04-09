@@ -89,7 +89,7 @@ module.exports = {
   ANTIJID: process.env.ANTIJID === undefined ? "" : process.env.ANTIJID,
   STICKER_PACKNAME:
     process.env.STICKER_PACKNAME === undefined
-      ? "🥰,lyfe00011"
+      ? "Jeff🍷👀"
       : process.env.STICKER_PACKNAME,
   BRAINSHOP:
     process.env.BRAINSHOP === undefined
