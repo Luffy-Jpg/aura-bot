@@ -1,21 +1,23 @@
 {
-  "name": "bottus",
-  "version": "1.2.8",
-  "description": "Aura bot",
-  "main": "./whatsAsena/bot.js",
+  "name": "aura-bot",
+  "version": "1.0.0",
+  "description": "Aura - Powerful and Private WhatsApp Bot",
+  "main": "./aura/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luffy-Jpg/aura-bot.git"
+    "url": "https://github.com/Luffy-Jpg/aura-bot.git"
   },
   "keywords": [
+    "aura",
     "whatsapp",
-    "whatsapp bot",
-    "user bot"
+    "whatsapp-bot",
+    "user-bot",
+    "aura-bot"
   ],
-  "author": "Aura Bot",
+  "author": "Aura Bot Team",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Luffy-Jpg/aura-bot/issues"
